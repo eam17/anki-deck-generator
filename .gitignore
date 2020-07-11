@@ -125,4 +125,6 @@ dmypy.json
 .pyre/
 
 # Other
-.vs\
+.vs/
+*.vscode/
+OANC-GrAF/
