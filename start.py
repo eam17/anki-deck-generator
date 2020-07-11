@@ -62,7 +62,6 @@ import textacy.preprocessing
 
 
 content = content.replace('\n', ' ')
-#textacy.preprocessing.normalize.normalize_unicode(content, 'NFC')
 textacy.preprocessing.normalize.normalize_quotation_marks(content)
 textacy.preprocessing.normalize.normalize_hyphenated_words(content)
 textacy.preprocessing.normalize.normalize_whitespace(content)
