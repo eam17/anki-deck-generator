@@ -31,7 +31,7 @@ for word in words[1:]:
         'q': word,
         'num': 1,
         'safe': 'medium',
-        'fileType': 'jpg',
+        'fileType': 'png',
         }
     #print(word)
     gis.search(search_params=_search_params, path_to_dir='C:/Users/Kat/Desktop/Python Projects/FlashProj/anki-deck-generator/img')

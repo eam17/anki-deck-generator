@@ -128,3 +128,10 @@ dmypy.json
 .vs/
 *.vscode/
 OANC-GrAF/
+venv/
+.db
+.txt
+.xml
+.idea/
+*.txt
+google-images-download/
